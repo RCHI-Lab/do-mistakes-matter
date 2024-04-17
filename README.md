@@ -2,13 +2,13 @@
 # Do Mistakes Matter? Comparing Trust Responses of Different Age Groups to Errors Made by Physically Assistive Robots
 ---->
 ## Do Mistakes Matter? Comparing Trust Responses of Different Age Groups to Errors Made by Physically Assistive Robots
-## Sasha Wald\*, Kavya Puthuveetil\*, Zackory Erickson
+### Sasha Wald\*, Kavya Puthuveetil\*, Zackory Erickson
 Robotics Institute, Carnegie Mellon University
 ## [[arXiv]](https://google.com)  &nbsp;  [[Video]](https://google.com)  &nbsp; 
 
-<h2 style="text-align: center;">Abstract</h2>
-
 ![alt text](images/TitleFigure.png "Fig. 1")
+
+<h2 style="text-align: center;">Abstract</h2>
 
 <p style="test-align: center;">Trust is a key factor in ensuring acceptable
 human-robot interaction, especially in settings where robots
@@ -29,3 +29,7 @@ performing. We also found that older adults tend to evaluate
 the robot on factors unrelated to the robot’s performance,
 making their trust in the system more resilient to errors when
 compared to younger adults.</p>
+
+<h3 style="text-align: center;">Error Examples</h3>
+![alt text](images/FullWidthError.png "Fig. 1")
+
