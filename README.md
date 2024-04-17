@@ -8,6 +8,7 @@ Robotics Institute, Carnegie Mellon University
 
 <h2 style="text-align: center;">Abstract</h2>
 
+![alt text](images/TitleFigure.png "Fig. 1")
 
 <p style="test-align: center;">Trust is a key factor in ensuring acceptable
 human-robot interaction, especially in settings where robots
