@@ -1,0 +1,8 @@
+<launch>
+
+  <!-- ARUCO MARKER DETECTOR -->
+  <rosparam command="load" file="/home/hello-robot/catkin_ws/src/shaving_aruco/config/overhead_stretch_marker_dict.yaml" />
+  <node name="detect_aruco_markers_overhead" pkg="shaving_aruco" type="detect_aruco_markers_overhead.py" output="screen"/>
+  <!-- -->
+
+</launch>

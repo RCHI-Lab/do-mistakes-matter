@@ -1,0 +1,10 @@
+<launch>
+    <node name="selection_node" pkg="shaving_aruco" type="add_selected_point.py" output="screen"/>
+    <node name="execution_node" pkg="shaving_aruco" type="execute_trajectory.py" output="screen"/>
+    <node name="move_node" pkg="shaving_aruco" type="move_to_point.py" output="screen"/>
+    <include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/stretch_driver.launch"/>
+    <include file="/home/hello-robot/catkin_ws/src/shaving_aruco/launch/overhead_camera.launch"/>
+    <include file="/home/hello-robot/catkin_ws/src/shaving_aruco/launch/multicam_overhead_detection.launch"/>
+    <!--include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/d435i_high_resolution.launch"/-->
+    <!--include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/stretch_aruco.launch"/-->
+</launch>
