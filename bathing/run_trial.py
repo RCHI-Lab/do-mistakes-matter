@@ -18,7 +18,7 @@ print('========================================================================'
 print(f'                          SUBJECT ID: {args.subject_id}')
 print('========================================================================')
 
-study_data_dir = '/home/kpputhuveetil/git/vBM-GNNdev/sasha_bed_bathing/STUDY_DATA'
+study_data_dir = ''
 
 subject_dir = osp.join(study_data_dir, f'subject_{args.subject_id}')
 config_file = osp.join(subject_dir, 'trial_config.ini')
