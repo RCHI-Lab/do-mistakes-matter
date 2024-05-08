@@ -1,0 +1,4 @@
+<launch>
+    <include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/d435i_high_resolution.launch"/>
+    <include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/stretch_aruco.launch"/>
+</launch>

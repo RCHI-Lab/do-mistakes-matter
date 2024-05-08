@@ -1,0 +1,7 @@
+<launch>
+    <include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/stretch_driver.launch"/>
+    <include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/d435i_high_resolution.launch"/>
+    <include file="/home/hello-robot/catkin_ws/src/stretch_ros/stretch_core/launch/stretch_aruco.launch"/>
+    <node name="detection_node" pkg="shaving_aruco" type="detect_shaving_marker.py" output="screen"/>
+    <node name="helper_node" pkg="shaving_aruco" type="shaving_helpers.py" output="screen"/>
+</launch>
