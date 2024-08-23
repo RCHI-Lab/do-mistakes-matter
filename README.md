@@ -4,7 +4,7 @@
 ## Do Mistakes Matter? Comparing Trust Responses of Different Age Groups to Errors Made by Physically Assistive Robots
 ### Sasha Wald\*, Kavya Puthuveetil\*, Zackory Erickson
 Robotics Institute, Carnegie Mellon University
-## [[arXiv]](https://google.com)  &nbsp;  [[Video]](https://google.com)  &nbsp; 
+## [[arXiv]](https://google.com)  &nbsp;  [[Video]](https://youtu.be/inyzOOkq8wU)  &nbsp; 
 
 ![alt text](images/TitleFigure.png "Fig. 1")
 
